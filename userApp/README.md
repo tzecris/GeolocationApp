@@ -14,8 +14,8 @@ Build:
 * mvn clean install
 
 DB setup:
-* You can use db.sql to create the db schema in a MySQL server
-* go to application properties
+* You can use db.sql file to create the db schema in a MySQL server
+* Go to application properties
 * Replace values in application.properties files :
   * spring.datasource.url= ??
   * spring.datasource.username=??
